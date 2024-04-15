@@ -1,0 +1,134 @@
+These are following intent manually I have train the model and reinforcement learning will also be there 
+
+
+intent - welcome
+
+{
+
+user expression :
+
+hii
+just going to say hi
+heya
+hello hi
+howdy
+hey there
+hi there
+greetings
+hey
+long time no see
+
+
+text response :
+
+Hello, how may I help you
+Hii, you can raise your doubts I will assist you
+Welcome to GeeksforGeeks! How can we help you excel in your programming journey today
+Greetings! Ready to level up your programming game with our expert-led courses? Feel free to ask any questions you have!
+Welcome to GeeksforGeeks, where learning meets innovation! How may we assist you in finding the perfect course
+Welcome to GeeksforGeeks, your ultimate destination for mastering programming skills! How can we support you in reaching your goals today
+Greetings from GeeksforGeeks! Ready to dive into the world of programming excellence? Feel free to explore our courses!
+Hey, welcome to GeeksforGeeks! Want to explore our wide range of courses and take your skills to the next level?
+	
+
+}
+
+intent - coursevariety
+{
+
+user expression :
+
+mention all course
+what are the course you offered
+tell me about what kind of courses do you have
+
+text response :
+yes I have currently different courses based on Dsa , Web development, etc.
+Yes, I have these courses: DSA, Web Dev, ML, and more
+Yes, I offer courses in DSA, Web Dev, ML, & diverse languages!
+Yes, my courses cover DSA, Web Dev, ML, & various language options
+Yes, I provide courses in DSA, Web Dev, ML, & a plethora of languages
+Yes, my offerings include DSA, Web Dev, ML, & a variety of languages
+Yes, I offer brilliance in DSA, Web Dev, ML, & multiple languages!
+	
+}
+intent - dsa cousre detail 
+{
+
+user experience:
+
+What kind of projects or assignments can I expect in the DSA course?
+Are there any prerequisites for the DSA course?
+What programming languages are used in the DSA course?
+How is the DSA course structured
+What topics are covered in the DSA course?
+Can you provide an overview of the DSA course?
+
+Text response :
+Text Response
+Our DSA course is a comprehensive program designed to equip you with a solid understanding of fundamental data structures and algorithms. Through a series of lectures, exercises, and projects, you'll delve into key concepts such as arrays, linked lists, stacks, queues, sorting algorithms, searching techniques, and more.
+In our DSA course, we cover a wide range of topics to ensure a thorough understanding of data structures and algorithms. These include arrays, linked lists, trees, graphs, sorting algorithms (such as bubble sort, insertion sort, merge sort), searching algorithms (like linear search, binary search), and dynamic programming.
+Structured into modules, our DSA course begins with an introduction to basic concepts and gradually progresses to more advanced topics. Each module consists of video lectures, coding exercises, quizzes, and hands-on projects, providing a well-rounded learning experience
+We offer flexibility in programming languages to accommodate different preferences and backgrounds. Our DSA course primarily uses Python, Java, and C++, ensuring that learners can choose the language they're most comfortable with while still gaining proficiency in
+Throughout the DSA course, you'll engage in practical exercises and projects that challenge your understanding and application of the concepts covered. These projects are carefully designed to simulate real-world scenarios, reinforcing your learning and allowing you to build a strong foundation in DSA
+Upon successful completion of the DSA course, you'll receive a certification that validates your proficiency in data structures and algorithms. This certification serves as a testament to your skills and can be a valuable addition to your resume or portfolio
+	
+}
+
+intent - payment
+{
+
+user experience :
+    
+give the price
+please mention the price
+what is the price of this course
+what is the price
+
+text response :
+
+the price of the course is mention on the website after talking to our assitant you can get a offer
+price is mention on the website
+
+}
+
+all other different intent response could be trained on various query.
+
+Suitable for beginner or advanced users ?
+
+Can I learn at my own pace?
+
+What type of assignment do you give ?
+
+What are the pre-requirement for this course ?
+
+How long does this course take to complete ?
+
+How much does the course cost ?
+
+How is the doubt support ?
+
+Does this course offer placement opportunities also ?
+
+How is the course different from other platform courses ?
+
+Is there any money back guarantee if I did not like the course ?
+
+Is this course relevant in todays market ?
+
+Is good DSA a prerequisite for this course ?
+
+How much I can make after completing this course ?
+
+Can I pay in EMI for this course ?
+
+Does this course offer financial aid for under-previleged people ?
+
+Does this course offer any certificate ?
+
+Where can I get testimonials for this course ?
+
+Who is the mentor for this course ?
+
+Is it an online or offline course ?
+
